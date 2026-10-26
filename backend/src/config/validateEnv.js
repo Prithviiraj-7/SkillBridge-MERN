@@ -1,6 +1,5 @@
 const REQUIRED_ENV_VARS = [
   'MONGODB_URI',
-  'PORT',
   'JWT_SECRET',
   'JWT_EXPIRES_IN',
   'CLIENT_URL',
