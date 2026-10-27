@@ -246,8 +246,8 @@ npm start
 | Service | URL | Purpose |
 | :--- | :--- | :--- |
 | **Frontend Web App**  |https://skill-bridge-mern.vercel.app | Main React client interface |
-| **Backend REST API** | [http://localhost:5000/api](http://localhost:5000/api) | API base endpoint |
-| **API Health Check** | [http://localhost:5000/api/health](http://localhost:5000/api/health) | Server & database status indicator |
+| **Backend REST API** | https://skillbridge-mern-mend.onrender.com/api | API base endpoint |
+| **API Health Check** |https://skillbridge-mern-mend.onrender.com/api/health | Server & database status indicator |
 
 ---
 
