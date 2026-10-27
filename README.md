@@ -278,7 +278,7 @@ npm start
 ---
 
 ### Demo Video
-**Link:**
+**Link:** https://drive.google.com/file/d/1xthwjyx_7IPVJu_EA7KbjjO3t8Kv_8qg/view?usp=sharing
 
 **Name:** Prithviraj S
 
