@@ -245,7 +245,7 @@ npm start
 
 | Service | URL | Purpose |
 | :--- | :--- | :--- |
-| **Frontend Web App** | [http://localhost:5173](http://localhost:5173) | Main React client interface |
+| **Frontend Web App**  |https://skill-bridge-mern.vercel.app | Main React client interface |
 | **Backend REST API** | [http://localhost:5000/api](http://localhost:5000/api) | API base endpoint |
 | **API Health Check** | [http://localhost:5000/api/health](http://localhost:5000/api/health) | Server & database status indicator |
 
